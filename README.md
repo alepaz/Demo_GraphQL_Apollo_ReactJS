@@ -1,2 +1,2 @@
-# Lyrical-GraphQL
-Starter project from a GraphQL course on Udemy.com
+# DEMO APOLLO REACTJS
+Demo tomado del curso de Stephen Grider
